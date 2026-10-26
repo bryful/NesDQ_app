@@ -1,0 +1,6 @@
+NesDQ 1.0.0 Android release signature
+Application ID: com.nesdq.app
+Certificate DN: CN=NesDQ
+Certificate SHA-256: 39eadef734c528a4acaafc97951091614b44853e2f53ca88867c8665c0f9e803
+APK signature verification: v1 and v2 verified
+Private signing material is not included in this distribution.
